@@ -4,7 +4,7 @@
 
 
 # Usage
-> Customer's downstream service use this template to configure pom.xml and add java code into their project for the messages in message bus platform.
+> Customer's downstream services are able to use this template to configure pom.xml and add java code into their project for the messages in message bus platform.
 > 
 >
 # Steps
