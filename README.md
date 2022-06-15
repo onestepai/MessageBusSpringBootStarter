@@ -46,7 +46,3 @@ send message:
 ```
 messageBusTemplate.sendMessage(messageBusTopic, "this is a test message");
 ```
-
-
-## License
-> Copyright 2022 1STEP.AI LLC.
